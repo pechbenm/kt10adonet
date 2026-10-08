@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\KT10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\kt10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\kt10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\models\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|c:\\users\\0\\source\\repos\\kt10\\kt10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E025B-BD71-4626-B6F1-D49344D8F8AE}|KT10\\KT10.csproj|solutionrelative:kt10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KT10.http",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\KT10.http",
+              "RelativeDocumentMoniker": "KT10\\KT10.http",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\KT10.http",
+              "RelativeToolTip": "KT10\\KT10.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-08T20:13:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KT10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KT10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:56:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KT10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KT10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T19:39:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "KT10\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "KT10\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-08T19:39:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KT10\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KT10\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-08T19:39:18.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KT10\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KT10\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:37:14.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Program.cs",
+              "RelativeDocumentMoniker": "KT10\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Program.cs",
+              "RelativeToolTip": "KT10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:31:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "KT10\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Service\\UserService.cs",
+              "RelativeToolTip": "KT10\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:30:54.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "KT10\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "KT10\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T19:25:17.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "KT10\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\UserModels.cs",
+              "RelativeToolTip": "KT10\\Models\\UserModels.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:24:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\Rules.cs",
+              "RelativeDocumentMoniker": "KT10\\Models\\Rules.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\Rules.cs",
+              "RelativeToolTip": "KT10\\Models\\Rules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:24:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KT10\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KT10\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:23:37.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "KT10\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Models\\AppUser.cs",
+              "RelativeToolTip": "KT10\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:23:47.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersApiController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\UsersApiController.cs",
+              "RelativeDocumentMoniker": "KT10\\Controllers\\UsersApiController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT10\\KT10\\Controllers\\UsersApiController.cs",
+              "RelativeToolTip": "KT10\\Controllers\\UsersApiController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:22:33.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
